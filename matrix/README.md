@@ -9,4 +9,4 @@ While running, you can use the `1`-`9` keys to change the colour of the display,
 I've included a cut down version of `get_opt.h` which still issues 3 warnings, however, it is sufficient to work as-is.
 
 # Screenshots
-![Matrix screenshot](matrix_screenshot.PNG)
+![Matrix screenshot](matrix_screenshot.png)
